@@ -5,22 +5,22 @@ I am currently a Junior at Stevens Institute of Technology, majoring in Computer
 ## Languages and Tools 🧰
 
 ### Programming Languages
-- ![Java](https://api.iconify.design/hugeicons:java.svg) Java
-- ![JavaScript](https://api.iconify.design/nonicons:javascript-16.svg) JavaScript
-- ![C](https://api.iconify.design/teenyicons:c-outline.svg) C
-- ![C++](https://api.iconify.design/nonicons:c-plusplus-16.svg) C++
-- ![Python](https://api.iconify.design/bxl:python.svg) Python
-- ![OCaml](https://api.iconify.design/simple-icons:ocaml.svg) OCaml
+- <img src="https://api.iconify.design/hugeicons:java.svg" width="40" height="40"> <span style="font-size:20px;">Java</span>
+- <img src="https://api.iconify.design/nonicons:javascript-16.svg" width="40" height="40"> <span style="font-size:20px;">JavaScript</span>
+- <img src="https://api.iconify.design/teenyicons:c-outline.svg" width="40" height="40"> <span style="font-size:20px;">C</span>
+- <img src="https://api.iconify.design/nonicons:c-plusplus-16.svg" width="40" height="40"> <span style="font-size:20px;">C++</span>
+- <img src="https://api.iconify.design/bxl:python.svg" width="40" height="40"> <span style="font-size:20px;">Python</span>
+- <img src="https://api.iconify.design/simple-icons:ocaml.svg" width="40" height="40"> <span style="font-size:20px;">OCaml</span>
 
 ### Tools and Technologies
-- ![GitHub](https://api.iconify.design/mdi:github.svg) GitHub
-- ![Git](https://api.iconify.design/mdi:git.svg) Git
-- ![LaTeX](https://api.iconify.design/file-icons:latex.svg) LaTeX
-- ![HTML](https://api.iconify.design/material-symbols-light:html.svg) HTML
-- ![CSS](https://api.iconify.design/material-symbols:css.svg) CSS
+- <img src="https://api.iconify.design/mdi:github.svg" width="40" height="40"> <span style="font-size:20px;">GitHub</span>
+- <img src="https://api.iconify.design/mdi:git.svg" width="40" height="40"> <span style="font-size:20px;">Git</span>
+- <img src="https://api.iconify.design/file-icons:latex.svg" width="40" height="40"> <span style="font-size:20px;">LaTeX</span>
+- <img src="https://api.iconify.design/material-symbols-light:html.svg" width="40" height="40"> <span style="font-size:20px;">HTML</span>
+- <img src="https://api.iconify.design/material-symbols:css.svg" width="40" height="40"> <span style="font-size:20px;">CSS</span>
 
 ### Quantum Computing
-- ![Qiskit](https://api.iconify.design/carbon:qiskit.svg) Qiskit
+- <img src="https://api.iconify.design/carbon:qiskit.svg" width="40" height="40"> <span style="font-size:20px;">Qiskit</span>
 
 ### Cloud Service
-- ![Azure](https://api.iconify.design/teenyicons:azure-solid.svg) Azure
+- <img src="https://api.iconify.design/teenyicons:azure-solid.svg" width="40" height="40"> <span style="font-size:20px;">Azure</span>

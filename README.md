@@ -19,6 +19,8 @@ I am currently a Junior at Stevens Institute of Technology, majoring in Computer
 - <img src="https://api.iconify.design/material-symbols-light:html.svg" width="40" height="40"> <span style="font-size:20px;">HTML</span>
 - <img src="https://api.iconify.design/material-symbols:css.svg" width="40" height="40"> <span style="font-size:20px;">CSS</span>
 
+- <img src="https://api.iconify.design/file-icons:matlab.svg" width="40" height="40"> <span style="font-size:20px;">Matlab</span>
+
 ### Quantum Computing
 - <img src="https://api.iconify.design/carbon:qiskit.svg" width="40" height="40"> <span style="font-size:20px;">Qiskit</span>
 

@@ -1,6 +1,8 @@
 # Hi there 👋 😎
 I am currently a Junior at Stevens Institute of Technology, majoring in Computer Science with a focus on Machine Learning and Software Development. Additionally, I am pursuing a minor in Physics, with a special interest in Quantum Machine Learning, Quantum Mechanics, and Modern Physics.
 
+I am currently working on a quantum machine learning project about the Variational Quantum Eigensolver in [Dr. Xiaofeng Qian quantum lab ]([URL](https://sites.google.com/view/qiangroup/people?authuser=0)). The goal is the understand and extract the result from physical experiment of the VQE using optics. 
+
 
 ## Languages and Tools 🧰
 
